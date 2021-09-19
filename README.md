@@ -1,8 +1,3 @@
----
-layout: page
-title: About
----
-
 <p class="message">
   안녕하세요. 남기승입니다. 
   정보보안 제너럴 리스트(Generalist)를 지향하고 있습니다.<br/><br/>
