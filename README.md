@@ -114,7 +114,7 @@
 * 2020 - 교육 프로그램 총괄운영([프로그래밍](https://www.notion.so/LEG-GODT-Python-10582915728e48a0856b386524eab179), 해킹)
 * 2019 - 해킹팀 창립 ([teamrootmi](https://www.facebook.com/TeamRootmi), [T3](https://velog.io/@try3verything))
 * 2019 - 화이트해커 유튜브 운영 (총 조회수 약 12만)
-* 2018 - 주식회사 탈잉 [튜터](https://taling.me/Talent/Detail/8350)(python 교육)
+* 2018 - 주식회사 탈잉 [튜터](https://taling.me/Talent/Detail/8350/)(python 교육)
 * 2018 - 스타트업 ([Redragon Entertainment](https://www.notion.so/78b917b59ad04528b792d8f95b7d1e20)) 정보보안 담당
 * 2017 - 정보보안 블로그 관리(방문자 약 15만)
 * 2015 - [일기장 10권에 담긴 내 인생](http://press.cnumedia.com/news/articleView.html?idxno=13013)
