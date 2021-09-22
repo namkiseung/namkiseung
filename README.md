@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/nam-ki-3676b916a/">
   <img align="left" alt="Namki Linkdin" width="21px" src="https://github.com/namkiseung/namkiseung.github.io/blob/master/svg/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/nos.ki66/">
+<a href="https://www.instagram.com/namkiu/">
   <img align="left" alt="Namki Instagram" width="21px" src="https://github.com/namkiseung/namkiseung.github.io/blob/master/svg/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/kiseung.nam.3/">
