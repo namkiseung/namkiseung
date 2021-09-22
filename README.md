@@ -6,19 +6,19 @@
 * 이메일: rlzld100@naver.com
 <br>
 <a href="https://twitter.com/nam_ki_">
-  <img align="left" alt="Namki Twitter" width="21px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/connect_with_me_images/twitter.svg" />
+  <img align="left" alt="Namki Twitter" width="21px" src="https://github.com/namkiseung/namkiseung.github.io/blob/master/svg/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/nam-ki-3676b916a/">
-  <img align="left" alt="Namki Linkdin" width="21px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/connect_with_me_images/linkedin.svg" />
+  <img align="left" alt="Namki Linkdin" width="21px" src="https://github.com/namkiseung/namkiseung.github.io/blob/master/svg/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/nos.ki66/">
-  <img align="left" alt="Namki Instagram" width="21px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/connect_with_me_images/instagram-main.svg" />
+  <img align="left" alt="Namki Instagram" width="21px" src="https://github.com/namkiseung/namkiseung.github.io/blob/master/svg/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/kiseung.nam.3/">
-  <img align="left" alt="Namki Facebook" width="21px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/connect_with_me_images/facebook.svg" />
+  <img align="left" alt="Namki Facebook" width="21px" src="https://github.com/namkiseung/namkiseung.github.io/blob/master/svg/facebook.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UC2r7CQea5SS57juOk8DDqwg">
-  <img align="left" alt="Namki Facebook" width="21px" src="https://raw.githubusercontent.com/gist/oasan/479f6cba3dc79551dc14bb8bd7a0c17c/raw/69102d4413fe8700c3e68785ab85566a85b468f2/youtube.svg"  />
+  <img align="left" alt="Namki Facebook" width="21px" src="https://github.com/namkiseung/namkiseung.github.io/blob/master/svg/youtube.svg"  />
 </a>
 
 
