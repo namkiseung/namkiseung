@@ -39,7 +39,7 @@
 
 * 2021 - 버그바운티 제보 인정 (Confluence Jira ...)
 * 2020 - 버그바운티 제보 인정 (roket punch...)
-* 2019 - 버그바운티 명예의전당 등극 (ridibooks)
+* 2019 - 버그바운티 <a href="https://ridi.dev/hall-of-fame">명예의전당 '남기승'</a> 등극 (ridibooks)
 * 2019 - 해커톤 입상 (OpenResource Hackcthon)
 
 ******************
@@ -109,6 +109,7 @@
 ******************
 ## Experience
 
+* 2021 - 대한민국 교육부 '보안/해킹' 강사위촉
 * 2021 - 전남대학교 온라인 동문 멘토링 [멘토]
 * 2021 - 해킹자문(유튜브채널) 및 대학(동양미래대, 업성고 등) 진로상담
 * 2020 - 스타트업 '[키즈월드](https://apktada.com/app/com.OFFWORLD.GPGStest)_[증강현실(AR)을 이용한 유아 교육플랫폼](http://webcache.googleusercontent.com/search?q=cache:4W14q2s0OF0J:www.ricee.or.kr/www/caps_center_detail/33/%3Fstate%3DV%26seq%3DQNjeRPAt5Ag%3D%26sch1%3D4GHzUdmDYI0%3D%26sch2%3D%26sch3%3D%26sch4%3D%26sch5%3D6mucGojVMTM%3D%26sch6%3D+&cd=1&hl=ko&ct=clnk&gl=kr)' (가입자 약 5천명) 보안총괄담당
