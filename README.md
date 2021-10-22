@@ -23,19 +23,19 @@
 
 
 ******************
-## Career
+## <span style="background:Orange">Career</span>
 
 * 2021 ~ing - **핀테크 자산운용, 정보보호 기술총괄**
 * 2019-2021 - SK infosec, [EQST 전문가 그룹 소속](https://infosec.adtcaps.co.kr/business/expert/eqst.do)
 * 2016-2018 - igloo security, [국가정보자원관리원 NIRS 소속](https://www.nirs.go.kr/index.jsp)
 
 ******************
-## Education
+## <span style="background:Orange">Education</span>
 
 * 2017 - 국립전남대학교(본교) 졸업
 
 ******************
-## Awards
+## <span style="background:Orange">Awards</span>
 
 * 2021 - 버그바운티 제보 인정 (Confluence Jira ...)
 * 2020 - 버그바운티 제보 인정 (roket punch...)
@@ -43,33 +43,34 @@
 * 2019 - 해커톤 입상 (OpenResource Hackcthon)
 
 ******************
-## Certificate
+## <span style="background:Orange">Certificate</span>
 
-* 2021 - ISO 국제인증심사원(보) 취득
+* 2021 - ISO 국제인증심사원(보) 27701, 27001 취득
 * 2020 - 소프트웨어 교육지도사 취득
+* 2020 - 정보보호전문가 취득
 * 2017 - 정보보안관제사 취득
 * 2016 - 정보처리기사 취득
 
 ******************
-## Speech 
+## <span style="background:Orange">Speech</span> 
 
 * 2021 - [securias] Security 관점에서 Ansible 활용하기 발표
 ######          - 주제: 보안 컴플라이언스 준수를 위한 배포시스템(Ansible)사용기 및 보안관점에서의 Ansible
-* 2020 - [EQST 보안세미나] IoT 스마트홈 프로토콜을 활용한 취약점 증명 
+* 2020 - [EQST 전문가 그룹] IoT 스마트홈 프로토콜을 활용한 취약점 증명 
 ######         - 주제: 스마트홈에서 네트워크 통신 시 사용되는 telemetry 프로토콜의 구조와 위험성 발표
-* 2020 - [EQST 보안세미나] 소스코드 취약점 점검 방법론 및 사례 발표 
+* 2020 - [EQST 전문가 그룹] 소스코드 취약점 점검 방법론 및 사례 발표 
 ######         - 주제: 소스코드 점검 방법 및 S*플래닛 보안진단 프로젝트 내 소스코드 진단 사례 공유
-* 2019 - [EQST 보안세미나] 금융권 해킹 방법 및 사례 발표
+* 2019 - [EQST 전문가 그룹] 금융권 해킹 방법 및 사례 발표
 ######         - 주제: N*은행 모의해킹에 대한 인사이트 등 금융권에서 발생할 수 있는 사례 공유 
-* 2019 - [TECH DAY 팀 세미나] 안드로이드 모바일 모의침투 발표
+* 2019 - [TECH DAY] 안드로이드 모바일 모의침투 발표
 ######         - 주제: 안드로이드 소스코드 Native 코드 정적/동적 해킹, 메모리 변조, Frida 후킹 방법공유
-* 2018 - [국제해킹교육센터] 오픈소스 라이선스 위반 사례 발표 
+* 2018 - [교육기관] 오픈소스 라이선스 위반 사례 발표 
 ######         - 주제: 오픈소스 라이센스 종류 및 특징과 위반 사례에 대한 발표
 * 2017 - [igloo security seminar] 디지털 포렌식 교육후기 발표 
 ######         - 주제: KISA 포렌식(모바일/DB/네트워크/임베디드) 전문가 과정 교육 후기 및 분석결과 발표
 
 ******************
-## Cyber Project 
+## <span style="background:Orange">Cyber Project</span> 
 
 * 2021 - Fint 보안담당(보안성심의, PCI-DSS 인증, 마이데이터(사업자/제공자), 보안키패드 검토, 핀테크 오픈뱅킹, 전자금융기반시설 등)
 * 2021 - OneStore 해킹 컨설팅 (PL)
@@ -89,11 +90,11 @@
 * 2019 - NH농협은행 정보보안체계 및 해킹 컨설팅
 * 2019 - SK ISMS 인증 및 해킹 컨설팅
 * 2019 - KG 이니시스/모빌리언스 해킹 컨설팅
-* 2016 - 국가망 (대전)데이터센터 운영지원 프로젝트
+* 2016 - 국가망 (대전)데이터센터 침해대응 운영지원
 
 
 ******************
-## Broadcast
+## <span style="background:Orange">Broadcast</span>
 
 *	2021 - Youtube 채널 '[잼뱅TV](https://www.youtube.com/channel/UCLE8p8wtDGSNEPv2w0OG8yg)' - 해커의 세계 편
 *	2021 - Youtube 채널 '하루보기' - 해커의 하루일상 편
@@ -107,7 +108,7 @@
 * 2019 - Youtube 채널 '로그띵 Logthink' 화이트해커 브이로그 편
 
 ******************
-## Experience
+## <span style="background:Orange">Experience</span>
 
 * 2021 - 대한민국 교육부 '보안/해킹' 강사위촉
 * 2021 - 전남대학교 온라인 동문 멘토링 [멘토]
@@ -117,7 +118,7 @@
 * 2020 - 교육 프로그램 총괄운영([프로그래밍](https://www.notion.so/LEG-GODT-Python-10582915728e48a0856b386524eab179), 해킹)
 * 2019 - 해킹팀 창립 ([teamrootmi](https://www.facebook.com/TeamRootmi), [T3](https://velog.io/@try3verything))
 * 2019 - 화이트해커 유튜브 운영 (총 조회수 약 12만)
-* 2018 - 주식회사 탈잉 [튜터](https://taling.me/Talent/Detail/8350/)(python 교육)
+* 2018 - 주식회사 탈잉 [튜터](https://taling.me/Talent/Detail/8350)(python 교육)
 * 2018 - 스타트업 ([Redragon Entertainment](https://www.notion.so/78b917b59ad04528b792d8f95b7d1e20)) 정보보안 담당
 * 2017 - 정보보안 블로그 관리(방문자 약 15만)
 * 2015 - [일기장 10권에 담긴 내 인생](http://press.cnumedia.com/news/articleView.html?idxno=13013)
