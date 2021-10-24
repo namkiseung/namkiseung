@@ -1,3 +1,15 @@
+## Overview
+<p></p>
+<p>안녕하세요. <b>안전한 금융플랫폼을 만들어가는데 기여하고 있는 남기승입니다.</b></p>
+<p>2016년부터 화이트해커로 <b>국가정보자원관리원(구 정부통합센터) 침해대응</b> 운영지원으로 커리어를 시작하여,</p>
+<p>국내외 해킹 컨설팅을 통해 해킹에 대한 이해도를 높였고, 현재 핀테크 <b>자산운용사에서 정보보안 실무 총괄</b>하고 있습니다.</p>
+<br></br>
+<p>대외적으로 실력있는 해커들로 이루어진 <b>'Teamrootm1' 라는 해킹팀을 창립</b>했고,</p>
+<p>지상파, 공중파 다양한 방송에서 해킹분야에 대해 알리고 있습니다.</p>
+<p>앞으로도 이 분야에서 선 영향력을 펼쳐나가보고 싶습니다.</p>
+감사합니다
+<br></br>
+
 ## Information
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnamkiseung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
