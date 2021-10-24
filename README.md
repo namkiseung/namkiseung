@@ -37,7 +37,7 @@
 ******************
 ## <span style="color:Orange">Career</span>
 
-* 2021 ~ing - **핀테크 자산운용, 정보보호 기술총괄**
+* 2021 [~ing](https://atom-hydrangea-e48.notion.site/d4e613b6941242cd956fae723c825d68) - **핀테크 자산운용, 정보보호 기술총괄**
 * 2019-2021 - SK infosec, [EQST 전문가 그룹 소속](https://infosec.adtcaps.co.kr/business/expert/eqst.do)
 * 2016-2018 - igloo security, [국가정보자원관리원 NIRS 소속](https://www.nirs.go.kr/index.jsp)
 
