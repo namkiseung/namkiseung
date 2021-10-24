@@ -49,8 +49,8 @@
 ******************
 ## <span style="color:Orange">Awards</span>
 
-* 2021 - 버그바운티 제보 인정 (Confluence Jira ...)
-* 2020 - 버그바운티 제보 인정 (roket punch...)
+* 2021 - (국외)버그바운티 제보 인정 (Confluence Jira ...)
+* 2020 - (국내)버그바운티 제보 인정 (roket punch...)
 * 2019 - 버그바운티 <a href="https://ridi.dev/hall-of-fame">명예의전당 '남기승'</a> 등극 (ridibooks)
 * 2019 - 해커톤 입상 (OpenResource Hackcthon)
 
