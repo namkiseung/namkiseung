@@ -1,4 +1,4 @@
-## Overview
+## <span style="color:Orange">Overview</span>
 <p></p>
 <p>안녕하세요. <b>안전한 금융플랫폼을 만들어가는데 기여하고 있는 남기승입니다.</b></p>
 <p>2016년부터 화이트해커로 <b>국가정보자원관리원(구 정부통합센터) 침해대응</b> 운영지원으로 커리어를 시작하여,</p>
@@ -10,7 +10,7 @@
 감사합니다
 <br></br>
 
-## Information
+## <span style="color:Orange">Information</span>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnamkiseung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
@@ -35,19 +35,19 @@
 
 
 ******************
-## <span style="background:Orange">Career</span>
+## <span style="color:Orange">Career</span>
 
 * 2021 ~ing - **핀테크 자산운용, 정보보호 기술총괄**
 * 2019-2021 - SK infosec, [EQST 전문가 그룹 소속](https://infosec.adtcaps.co.kr/business/expert/eqst.do)
 * 2016-2018 - igloo security, [국가정보자원관리원 NIRS 소속](https://www.nirs.go.kr/index.jsp)
 
 ******************
-## <span style="background:Orange">Education</span>
+## <span style="color:Orange">Education</span>
 
 * 2017 - 국립전남대학교(본교) 졸업
 
 ******************
-## <span style="background:Orange">Awards</span>
+## <span style="color:Orange">Awards</span>
 
 * 2021 - 버그바운티 제보 인정 (Confluence Jira ...)
 * 2020 - 버그바운티 제보 인정 (roket punch...)
@@ -55,7 +55,7 @@
 * 2019 - 해커톤 입상 (OpenResource Hackcthon)
 
 ******************
-## <span style="background:Orange">Certificate</span>
+## <span style="color:Orange">Certificate</span>
 
 * 2021 - ISO 국제인증심사원(보) 27701, 27001 취득
 * 2020 - 소프트웨어 교육지도사 취득
@@ -64,7 +64,7 @@
 * 2016 - 정보처리기사 취득
 
 ******************
-## <span style="background:Orange">Speech</span> 
+## <span style="color:Orange">Speech</span> 
 
 * 2021 - [securias] Security 관점에서 Ansible 활용하기 발표
 ######          - 주제: 보안 컴플라이언스 준수를 위한 배포시스템(Ansible)사용기 및 보안관점에서의 Ansible
@@ -106,7 +106,7 @@
 
 
 ******************
-## <span style="background:Orange">Broadcast</span>
+## <span style="color:Orange">Broadcast</span>
 
 *	2021 - Youtube 채널 '[잼뱅TV](https://www.youtube.com/channel/UCLE8p8wtDGSNEPv2w0OG8yg)' - 해커의 세계 편
 *	2021 - Youtube 채널 '하루보기' - 해커의 하루일상 편
@@ -120,7 +120,7 @@
 * 2019 - Youtube 채널 '로그띵 Logthink' 화이트해커 브이로그 편
 
 ******************
-## <span style="background:Orange">Experience</span>
+## <span style="color:Orange">Experience</span>
 
 * 2021 - 전남대학교 온라인 동문 멘토링 [멘토]
 * 2021 - 해킹자문(유튜브채널) 및 대학(동양미래대, 업성고 등) 진로상담
